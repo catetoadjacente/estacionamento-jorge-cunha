@@ -1,4 +1,20 @@
-body {
-    background-image: url(../Assets\ -\ projeto\ estacionamento/Professional\ parking\ facility\ background.png);
-    background-size: cover;
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+body{
+    /* padding: 0; */
+    margin: 0; 
+}
+
+.img-fundo {
+    margin: 0 0; 
+    display: block; 
+    height: 100vh;
+    width: 65%;
+    
+}
+
+.container-principal {
+    display:flex;
 }
